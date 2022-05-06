@@ -55,7 +55,7 @@ CREATE TABLE SpotifyClone.user_playback(
 
 INSERT INTO SpotifyClone.signature(type, price)
 VALUES
-  ('gratuito', 0),
+  ('gratuito', 0.00),
   ('familiar', 7.99),
   ('universitario', 5.99),
   ('pessial', 6.99);
