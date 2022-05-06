@@ -3,7 +3,7 @@ CREATE DATABASE IF NOT EXISTS SpotifyClone;
 CREATE TABLE SpotifyClone.signature(
   signature_id INT PRIMARY KEY AUTO_INCREMENT,
   type VARCHAR(30) NOT NULL,
-  price FLOAT NOT NULL
+  price DECIMAL(4, 2) NOT NULL
 ) ENGINE=InnoDB;
 
 CREATE TABLE SpotifyClone.user(
