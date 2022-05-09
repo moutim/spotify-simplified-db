@@ -52,8 +52,6 @@ Seu banco de dados deve seguir as regras de negócio e ser capaz de recuperar:
 
 # Requisitos do projeto
 
-⚠️ **AVISO IMPORTANTE:** Você deve escrever sua query manualmente, com o gerador automático de queries do Workbench o avaliador não funcionará corretamente!
-
 ## Desafio 1
 
 * Crie um banco com o nome de **`SpotifyClone`**.
